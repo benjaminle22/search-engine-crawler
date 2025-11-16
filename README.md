@@ -1,4 +1,4 @@
-# Assignment3-CS121
+
 
 ### GENERATING THE INDEX ###
 Create the partial inverted indices of the web documents by running "python3 indexer/indexer.py"
